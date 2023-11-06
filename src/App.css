@@ -51,7 +51,6 @@
 }
 
 .joinBtn,
-.copyBtn,
 .leaveBtn {
   background: #4aed88;;
   width: 100px;
@@ -59,7 +58,6 @@
 }
 
 .joinBtn:hover,
-.copyBtn:hover,
 .leaveBtn:hover {
   background: #2b824c;
 }
@@ -111,6 +109,7 @@
   flex-direction: column;
   font-weight: bold;
 }
+
 .userName {
   margin-top: 10px;
 }
